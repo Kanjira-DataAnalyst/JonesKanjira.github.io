@@ -1,1 +1,1 @@
-# Kanjira-Data-Analyst.github.io
+# kanjira-datascientist-analyst.github.io
